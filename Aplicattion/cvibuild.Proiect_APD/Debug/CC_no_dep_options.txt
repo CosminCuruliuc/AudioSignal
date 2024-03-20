@@ -1,0 +1,1 @@
+-force-include-file "Proiect_APD.c";"e:\APD_Proiect\Proiect_APD.c" 
